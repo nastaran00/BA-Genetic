@@ -15,7 +15,7 @@ Stay tuned for updates!
 
 
 ## **Contact & Updates**  
-For inquiries, collaboration, or early access (for academic purposes), please reach out to:  
+If you have any questions or need further clarification, feel free to reach out:
 📧 **[nastaran.hasanzadeh@modares.ac.ir]**  
 
 Stay updated with the latest developments by watching this repository! ⭐  
