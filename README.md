@@ -1,8 +1,7 @@
-Here’s a structured **README** file for your **GitHub repository**, ensuring clarity and completeness while mentioning copyright restrictions and the paper submission status.
 
 ---
 
-# **Brain Age Prediction from fMRI Data Using Graph Neural Networks and Genetic Algorithm**  
+# **Brain Age Prediction**  
 
 📌 **Status:** Under Review | Code Release Pending Acceptance  
 
